@@ -1,0 +1,5 @@
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\MemoryStreamSample\MemoryStreamSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\MemoryStreamSample\MemoryStreamSample\bin\Debug\MemoryStreamSample.exe
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\MemoryStreamSample\MemoryStreamSample\bin\Debug\MemoryStreamSample.pdb
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\MemoryStreamSample\MemoryStreamSample\obj\Debug\MemoryStreamSample.exe
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\MemoryStreamSample\MemoryStreamSample\obj\Debug\MemoryStreamSample.pdb

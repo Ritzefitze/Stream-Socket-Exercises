@@ -1,0 +1,5 @@
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\FileStreamSample\FileStreamSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\FileStreamSample\FileStreamSample\bin\Debug\FileStreamSample.exe
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\FileStreamSample\FileStreamSample\bin\Debug\FileStreamSample.pdb
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\FileStreamSample\FileStreamSample\obj\Debug\FileStreamSample.exe
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\FileStreamSample\FileStreamSample\obj\Debug\FileStreamSample.pdb

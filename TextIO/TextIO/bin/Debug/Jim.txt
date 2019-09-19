@@ -1,0 +1,3 @@
+Using stream writers is easy!
+Using stream readers is also easy!
+Yes it is true!

@@ -1,0 +1,5 @@
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\NetworkStreamSampleSender\NetworkStreamSampleSender\bin\Debug\NetworkStreamSampleSender.exe
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\NetworkStreamSampleSender\NetworkStreamSampleSender\bin\Debug\NetworkStreamSampleSender.pdb
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\NetworkStreamSampleSender\NetworkStreamSampleSender\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\NetworkStreamSampleSender\NetworkStreamSampleSender\obj\Debug\NetworkStreamSampleSender.exe
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\NetworkStreamSampleSender\NetworkStreamSampleSender\obj\Debug\NetworkStreamSampleSender.pdb

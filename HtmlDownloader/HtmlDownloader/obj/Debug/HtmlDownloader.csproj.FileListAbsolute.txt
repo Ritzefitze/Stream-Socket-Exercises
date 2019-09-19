@@ -1,0 +1,8 @@
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\HtmlDownloader\HtmlDownloader\bin\Debug\HtmlDownloader.exe
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\HtmlDownloader\HtmlDownloader\bin\Debug\HtmlDownloader.pdb
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\HtmlDownloader\HtmlDownloader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\HtmlDownloader\HtmlDownloader\obj\Debug\HtmlDownloader.Form1.resources
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\HtmlDownloader\HtmlDownloader\obj\Debug\HtmlDownloader.Properties.Resources.resources
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\HtmlDownloader\HtmlDownloader\obj\Debug\HtmlDownloader.csproj.GenerateResource.Cache
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\HtmlDownloader\HtmlDownloader\obj\Debug\HtmlDownloader.exe
+C:\Users\Sven Sternhagen\Desktop\winsocketdotnetframeworkprogramming.com\HtmlDownloader\HtmlDownloader\obj\Debug\HtmlDownloader.pdb
