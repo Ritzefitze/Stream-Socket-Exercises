@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>9.0.30729</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{51B0747D-E2D0-4828-BAA2-9DB19017D481}</ProjectGuid>
+    <ProjectGuid>{C6DA950C-FE3B-42F5-8BE4-2B7251176105}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SslStreamClient</RootNamespace>
-    <AssemblyName>SslStreamClient</AssemblyName>
+    <RootNamespace>NegotiateStreamServer</RootNamespace>
+    <AssemblyName>NegotiateStreamServer</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -45,8 +45,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AsynchronousAuthenticatingTcpListener.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SslStreamClient.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
